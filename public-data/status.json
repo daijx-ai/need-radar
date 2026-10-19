@@ -2,27 +2,27 @@
  "schema_version": 2,
  "mode": "github",
  "status": "success",
- "started_at": "2026-10-18T05:05:42+00:00",
- "finished_at": "2026-10-18T05:06:53+00:00",
- "generated_at": "2026-10-18T05:06:53+00:00",
+ "started_at": "2026-10-19T05:17:02+00:00",
+ "finished_at": "2026-10-19T05:18:09+00:00",
+ "generated_at": "2026-10-19T05:18:09+00:00",
  "needs": 2,
  "collectors": [
   {
    "label": "aihot",
    "status": "success",
-   "count": 19,
-   "secs": 7.1
+   "count": 16,
+   "secs": 7.4
   },
   {
    "label": "apple_appstore",
    "status": "success",
-   "count": 100,
-   "secs": 30.9
+   "count": 50,
+   "secs": 26.6
   },
   {
    "label": "follow_builders",
    "status": "success",
-   "count": 15,
+   "count": 8,
    "secs": 0.2
   },
   {
@@ -41,7 +41,7 @@
    "label": "huggingface",
    "status": "success",
    "count": 80,
-   "secs": 0.6
+   "secs": 0.7
   },
   {
    "label": "producthunt",
@@ -58,20 +58,20 @@
   {
    "label": "stackexchange",
    "status": "success",
-   "count": 87,
-   "secs": 2.9
+   "count": 84,
+   "secs": 3.2
   },
   {
    "label": "v2ex",
    "status": "success",
-   "count": 49,
-   "secs": 1.2
+   "count": 52,
+   "secs": 1.3
   },
   {
    "label": "weibo_hot",
    "status": "success",
-   "count": 51,
-   "secs": 1.8
+   "count": 52,
+   "secs": 1.3
   },
   {
    "label": "bilibili",
