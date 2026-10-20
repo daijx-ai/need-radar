@@ -501,7 +501,7 @@
    "age_hours": 35.9,
    "is_stale": false,
    "title": "If you have way too many apps and agents (45!) connected to your Google account like me, here's…",
-   "summary": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them: \"Help me audit my Google app connections at https://t.co/5eMX9dNhLD 1. Review EVERY app across all connection categories. Ask me which ones I still use rather than guessing. 2. Open each app's details. Distinguish basic Google sign-in from permissions to access Gmail, Drive, Calendar, or ",
+   "summary": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them: \"Help me audit my Google app connections at https://t.co/5eMX9dNhLD 1. Review EVERY app across all connection categories. Ask me which ones I still use rather than guessing. 2. Open each app's details. Distinguish basic Google sign-in from permissions to access Gmail, Drive, Calendar, or",
    "source": "Follow Builders",
    "why_now": "来自精选建造者或官方来源，可能包含可复用的实践和判断。",
    "why_ignore": "未达到今日质量阈值或注意力预算，可在需要时再展开。",
