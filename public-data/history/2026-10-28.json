@@ -323,7 +323,7 @@
    "age_hours": 36.8,
    "is_stale": false,
    "title": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. I…",
-   "summary": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. It runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip. I was able to chat via 3 separate mechanisms: ① CPU contention ② Cache eviction timing ③ DRAM bandwidth contention … across multiple CPUs, defeating all Firecracker's production recommendations (no SMT, no KSM, ",
+   "summary": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. It runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip. I was able to chat via 3 separate mechanisms: ① CPU contention ② Cache eviction timing ③ DRAM bandwidth contention … across multiple CPUs, defeating all Firecracker's production recommendations (no SMT, no KSM,",
    "source": "Follow Builders",
    "why_now": "来自精选建造者或官方来源，可能包含可复用的实践和判断。",
    "why_ignore": "",
